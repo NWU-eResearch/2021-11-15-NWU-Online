@@ -111,7 +111,7 @@ address.
   
     This is an online event. We will meet using the online videoconference software Zoom. You will need to <a href="https://zoom.us/download">download and install their client</a> to connect with your instructors. The link to use for this event is
   
-  <a href="//carpentries.zoom.us/my/carpentriesroom3">"https://carpentries.zoom.us/j/91085509412?pwd=SnhrTkpEei9hV2NycUZMdVZpdjljQT09"</a>If needed, the password is **521801**.
+  <a href="//carpentries.zoom.us/my/carpentriesroom3">"https://carpentries.zoom.us/j/91085509412"</a>.
 </p>
 {% endif %}
 
