@@ -13,7 +13,7 @@ enddate: 2021-04-16       # machine-readable end date for the workshop in YYYY-M
 instructor: ["Martin Dreyer","Sebastian Mosidi","TBC"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["TBC"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["sebastian.mosidi@nwu.ac.za"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes: https://pad.carpentries.org/2021-04-12-NWU-ONLINE   # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+collaborative_notes: https://pad.carpentries.org/2021-09-13-NWU-Online   # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 #eventbrite:  119095205967 # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
@@ -140,7 +140,7 @@ Modify the block below if there are any special requirements.
 
   <p>
   <strong>Application form</strong>:
- Please use this <a href ="https://docs.google.com/forms/d/1ZAIxF5qkPjma8K2EUGAYFGavBMjf2jNl1FPh-Tf3oXk"><b>application form</b></a>.
+ Please use this <a href ="https://forms.gle/WKqS1BwA76VCphSw7"><b>application form</b></a>.
  Successful candidates will be notified via email.
 </p>
 
