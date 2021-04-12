@@ -6,14 +6,14 @@ country: "za"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latitude: "0"     # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "0"    # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "Sept 13 -17, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "Nov 15 -19, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "8:30 am - 13:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2021-09-13      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2021-09-17       # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+startdate: 2021-11-15      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2021-11-19       # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Martin Dreyer","Sebastian Mosidi","TBC"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["TBC"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["sebastian.mosidi@nwu.ac.za"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes: https://pad.carpentries.org/2021-09-13-NWU-Online   # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+collaborative_notes: https://pad.carpentries.org/2021-11-15-NWU-Online   # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 #eventbrite:  119095205967 # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
@@ -140,7 +140,7 @@ Modify the block below if there are any special requirements.
 
   <p>
   <strong>Application form</strong>:
- Please use this <a href ="https://forms.gle/WKqS1BwA76VCphSw7"><b>application form</b></a>.
+ Please use this <a href ="https://forms.gle/CGf9Zv5ciM9MLBAX7"><b>application form</b></a>.
  Successful candidates will be notified via email.
 </p>
 
